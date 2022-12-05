@@ -1,1 +1,1 @@
-# Cartoonyfing-Image-Using-OpenCV
+# Cartoonify-Image-Using-OpenCV
